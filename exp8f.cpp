@@ -1,5 +1,4 @@
-/*PRN: 22070123117
-Experiment-no: 8(f)*/
+
 #include <iostream>
 #include<string.h>
 using namespace std;
